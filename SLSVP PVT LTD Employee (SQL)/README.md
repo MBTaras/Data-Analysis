@@ -8,7 +8,7 @@ The data is processed using **SQL queries**, and insights are visualized using *
 
 ## 📊 **Data Visualization**  
 📌 **Example Dashboard:**  
-![Dashboard Preview](./screenshots/dashboard1.jpg)  
+![Dashboard Preview](SLSVP PVT LTD Employee (SQL)/dashboard/dashboard1.jpg)  
 
 ---
 
