@@ -9,7 +9,7 @@ The data is processed using **SQL queries**, and insights are visualized using *
 ## 📊 **Data Visualization**  
 📌 **Example Dashboard:**  
 ![Dashboard Preview](https://github.com/MBTaras/Data-Analysis/blob/main/SLSVP%20PVT%20LTD%20Employee%20(SQL)/dashboard/dashboard1.jpg)  
-(https://github.com/MBTaras/Data-Analysis/blob/main/SLSVP%20PVT%20LTD%20Employee%20(SQL)/dashboard/dashboard12.jpg)
+!(https://github.com/MBTaras/Data-Analysis/blob/main/SLSVP%20PVT%20LTD%20Employee%20(SQL)/dashboard/dashboard12.jpg)
 
 ---
 
